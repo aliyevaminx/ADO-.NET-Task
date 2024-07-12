@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Services\\CityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\CityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Services\\CountryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\CountryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Extensions\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Extensions\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Constants\\Messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Constants\\Messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Extensions\\Extensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Extensions\\Extensions.cs",
+              "RelativeToolTip": "Extensions\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:40:58.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Services\\CityService.cs",
+              "RelativeToolTip": "Services\\CityService.cs",
+              "ViewState": "AQIAAI8BAAAAAAAAAAAAAKoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T22:42:43.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Services\\CountryService.cs",
+              "RelativeToolTip": "Services\\CountryService.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAAAANgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:15:45.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T07:44:28.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\SQL_Connection_Task1\\SQL_Connection_Task\\Constants\\Messages.cs",
+              "RelativeToolTip": "Constants\\Messages.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:17:23.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
